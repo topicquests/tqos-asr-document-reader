@@ -1,2 +1,2 @@
-# tqos-asr-reader
+# tqos-asr-document-reader
 OpenSherlock text reader
